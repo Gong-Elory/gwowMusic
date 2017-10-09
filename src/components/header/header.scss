@@ -1,0 +1,16 @@
+/*
+* @Author: Elory
+* @Date:   2017-10-08 22:46:26
+* @Last Modified by:   Elory
+* @Last Modified time: 2017-10-09 09:23:53
+*/
+.components-header{
+	box-sizing: border-box;
+	padding: 15px 25px;
+	border-bottom: 1px solid #ccc;
+	background: #fff;
+	.caption {
+		font-size: 20px;
+		text-indent: 20px;
+	}
+}
